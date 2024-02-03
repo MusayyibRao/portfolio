@@ -140,9 +140,9 @@ li{
     background: url(img/musa01-.png) no-repeat right;
     background-size: 400px;
     background-position: right;
-    border: 10px solid rebeccapurple;
+    /* border: 10px solid rebeccapurple; */
     border-radius: 90px;
-    box-shadow: 5px 5px 5px 10px rgba(172, 15, 225, 0.258);
+    box-shadow: 0px 5px 20px 10px rgba(227, 192, 244, 0.258);
     margin-top: 30PX;
     background-color: #847c7c57;
 }
